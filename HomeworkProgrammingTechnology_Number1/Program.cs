@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Data.SqlTypes;
 
 public class HomeworkProgrammingTechnology_Number1
 {
